@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoteApp/static/css/main.f8ad0379.css",
+    "main.js": "/NoteApp/static/js/main.c62874f9.js",
+    "static/js/787.2e9082b0.chunk.js": "/NoteApp/static/js/787.2e9082b0.chunk.js",
+    "index.html": "/NoteApp/index.html",
+    "main.f8ad0379.css.map": "/NoteApp/static/css/main.f8ad0379.css.map",
+    "main.c62874f9.js.map": "/NoteApp/static/js/main.c62874f9.js.map",
+    "787.2e9082b0.chunk.js.map": "/NoteApp/static/js/787.2e9082b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ad0379.css",
+    "static/js/main.c62874f9.js"
+  ]
+}
