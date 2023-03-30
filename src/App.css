@@ -36,12 +36,13 @@ button:focus {
 
 .sidebar--header {
   display: flex;
-  justify-content: space-around;
+  align-items: flex-start;
   align-items: center;
 }
 
 .sidebar--header > h3 {
   font-size: 1.75rem;
+  padding: 1rem;
 }
 
 .new-note {
@@ -114,7 +115,6 @@ button:focus {
 
 .gutter {
   background-color: #eee;
-
   background-repeat: no-repeat;
   background-position: 50%;
 }
@@ -200,3 +200,7 @@ button:focus {
   top: -7px;
   left: -2px
 } 
+/* picking element by data-name
+[data-name|="header"]:hover {
+  cursor:move;
+} */
